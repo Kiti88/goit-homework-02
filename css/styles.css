@@ -11,7 +11,7 @@ body {
         font-family: "Raleway", sans-serif;
     }
 span {
-        color: #2e2f42;
+        color: #f4f4fd;
         font-family: "Raleway", sans-serif;
         }
 .logotip {
@@ -106,6 +106,7 @@ h1 {
 }
 .caption {
         line-height: 1.2;
+        
         }
 .footer-txt {
         color: var(--cloud, #F4F4FD);
