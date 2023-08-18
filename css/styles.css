@@ -12,7 +12,6 @@ body {
     }
 span {
         color: #2e2f42;
-        font-family: "Raleway", sans-serif;
         }
 .logotip {
         font-family: "Raleway", sans-serif;
@@ -77,10 +76,16 @@ span {
         color: #ffffff;
         cursor: pointer;
 }
+.button:hover {
+        background-color: #404BBF;
+}
+.button:focus {
+        background-color: #404BBF;
+}
 .article-title {
         color: var(--navyblue, #2E2F42);
         /* Header 3 */
-        font-family: Roboto;
+        font-family: "Roboto";
         font-size: 20px;
         font-style: normal;
         font-weight: 500;
@@ -95,7 +100,7 @@ span {
 .article-txt {
         color: var(--slate, #434455);
         /* Body */
-        font-family: Roboto;
+        font-family: "Roboto";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -111,7 +116,6 @@ span {
         color: var(--navyblue, #2E2F42);
         text-align: center;
         /* Header 2 */
-        font-family: Roboto;
         font-size: 36px;
         font-style: normal;
         font-weight: 700;
