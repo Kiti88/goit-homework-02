@@ -11,7 +11,7 @@ body {
         
     }
 span {
-        color: #f4f4fd;
+        color: #2e2f42;
         font-family: "Raleway", sans-serif;
         }
 .logotip {
@@ -91,6 +91,7 @@ h1 {
         
         /* 150% */
         letter-spacing: 0.32px;
+        line-height: 1.5;
 }
 .aside {
         background-color: #F4F4FD;
