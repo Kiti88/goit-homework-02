@@ -47,8 +47,12 @@ span {
         /* 150% */
         letter-spacing: 0.32px;
     }
+.container {
+        background-color: #2e2f42;
 
-h1 {
+        }
+
+.wrap {
         color: var(--white, #FFF);
         text-align: center;
         /* Header 1 */
@@ -56,15 +60,22 @@ h1 {
         font-size: 56px;
         font-style: normal;
         font-weight: 700;
-        line-height: 60px;
+        line-height: 1.07;
         /* 107.143% */
         letter-spacing: 1.12px;
 }
 
 .button {
         border-radius: 4px;
-        background: var(--iris, #4D5AE5);
+        background-color: #4D5AE5;
         box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff;
+        cursor: pointer;
 }
 .article-title {
         color: var(--navyblue, #2E2F42);
