@@ -77,6 +77,10 @@ h1 {
         letter-spacing: 0.4px;
         line-height: 1.11;
             }
+.desc {
+        line-height: 1.2;
+        }
+
 .article-txt {
         color: var(--slate, #434455);
         /* Body */
@@ -88,6 +92,9 @@ h1 {
         /* 150% */
         letter-spacing: 0.32px;
 }
+.aside {
+        background-color: #FFFFFF;
+        }
 .team {
         color: var(--navyblue, #2E2F42);
         text-align: center;
@@ -100,13 +107,16 @@ h1 {
         /* 111.111% */
         letter-spacing: 0.72px;
         text-transform: capitalize;
+        background-color: #F4F4FD;
 }
 .author-article-img {
         background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 }
 .caption {
+        line-height: 1.2;    
+        }
+.excerpt {
         line-height: 1.2;
-        
         }
 .footer-txt {
         color: var(--cloud, #F4F4FD);
