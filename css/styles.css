@@ -35,6 +35,8 @@ span {
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
+        color: #2e2f42;
+        
     }
 .address-list {
         font-family: Roboto;
@@ -74,7 +76,7 @@ h1 {
         
         /* 120% */
         letter-spacing: 0.4px;
-        line-height: 1.07;
+        line-height: 1.11;
             }
 .article-txt {
         color: var(--slate, #434455);
@@ -115,5 +117,5 @@ h1 {
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
-        border-color: #2e2f42;
+        background-color: #2e2f42;
 }
