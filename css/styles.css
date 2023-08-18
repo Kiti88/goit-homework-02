@@ -16,7 +16,7 @@ span {
         }
 .logotip {
         font-family: "Raleway", sans-serif;
-        color: ;#4d5ae5
+        color: #4d5ae5;
         color: var(--navyblue, #2E2F42);
         font-family: Raleway;
         font-size: 18px;
@@ -120,3 +120,7 @@ h1 {
         letter-spacing: 0.32px;
         background-color: #2e2f42;
 }
+.footer-main {
+        background-color: #2e2f42;
+
+        }
