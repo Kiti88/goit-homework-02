@@ -11,7 +11,7 @@ body {
         color: #2e2f42;
 }
 .span {
-        color: #2e2f42;
+        #f4f4fd;
 }
 .logotip {
         font-family: "Raleway", sans-serif;
@@ -79,7 +79,6 @@ body {
 .button {
         border-radius: 4px;
         background-color: #4D5AE5;
-        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
