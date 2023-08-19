@@ -6,7 +6,6 @@ body {
 .link {
         text-decoration: none;
 }
-
 .logotip {
         font-family: "Raleway", sans-serif;
         color: #4d5ae5;
@@ -20,7 +19,6 @@ body {
 .span {
         color: #2e2f42;
 }
-
 .logotip-studio {
         font-family: "Raleway", sans-serif;
         color: #2e2f42;
@@ -61,13 +59,12 @@ body {
 }
 .address-list-link {
         color: #434455;
-        }
+}
 .container {
         background-color: #2e2f42;
 }
 .wrap {
         color: var(--white, #FFF);
-        
         /* Header 1 */
         font-family: Roboto;
         font-size: 56px;
