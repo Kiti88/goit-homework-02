@@ -13,10 +13,10 @@ body {
         
     }
 .span {
-       color:  #2e2f42;
+       color: #2e2f42;
         }
 .logotip {
-        font-family: "Raleway";
+        font-family: "Raleway", sans-serif;
         color: #4d5ae5;
         color: var(--navyblue, #2E2F42);
         font-size: 18px;
