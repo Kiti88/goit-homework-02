@@ -11,18 +11,17 @@ body {
         font-family: "Raleway", sans-serif;    
 }
 .span {
-       color: #2e2f42;
+        color: #f4f4fd;
 }
 .logotip {
         font-family: "Raleway", sans-serif;
         color: #4d5ae5;
-        
         font-size: 16px;
         font-style: normal;
         font-weight: 700;
         line-height: 1.17;
         /* 116.667% */
-        letter-spacing: 0.02em;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 .address-list-link:hover {
