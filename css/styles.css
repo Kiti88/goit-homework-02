@@ -40,6 +40,15 @@ body {
         letter-spacing: 0.32px;
         color: #2e2f42; 
 }
+.gallery {
+       color: #2e2f42;         
+}
+.gallery:hover {
+        color: #404bbf;
+}
+.gallery:focus {
+        color: #404bbf;
+}
 .address-list {
         font-family: Roboto;
         font-size: 16px;
@@ -49,6 +58,9 @@ body {
         /* 150% */
         letter-spacing: 0.32px;
 }
+.address-list-link {
+        color: #434455;
+        }
 .container {
         background-color: #2e2f42;
 }
