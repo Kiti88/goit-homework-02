@@ -6,18 +6,18 @@ body {
 .link {
         text-decoration: none;
 }
+.span {
+        color: #2e2f42;
+}
 .logotip-studio {
         font-family: "Raleway", sans-serif;
         color: #f4f4fd;
 }
-.span {
-        color: #2e2f42;
-}
+
 .logotip {
         font-family: "Raleway", sans-serif;
         color: #4d5ae5;
         font-size: 18px;
-        
         font-weight: 700;
         line-height: 1.17;
         /* 116.667% */
