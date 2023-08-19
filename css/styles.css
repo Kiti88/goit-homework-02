@@ -17,12 +17,12 @@ body {
         font-family: "Raleway", sans-serif;
         color: #4d5ae5;
         
-        font-size: 18px;
+        font-size: 16px;
         font-style: normal;
         font-weight: 700;
         line-height: 1.17;
         /* 116.667% */
-        letter-spacing: 0.54px;
+        letter-spacing: 0.02em;
         text-transform: uppercase;
 }
 .address-list-link:hover {
