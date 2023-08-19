@@ -26,10 +26,10 @@ body {
         text-transform: uppercase;
 }
 .address-list-link:hover {
-        background-color: #404BBF;
+        color: #404bbf;
 }
 .address-list-link:focus {
-        background-color: #404BBF;
+        color: #404bbf;
 }
 .listnav {
         font-family: Roboto;
