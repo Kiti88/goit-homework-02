@@ -7,7 +7,7 @@ body {
         text-decoration: none;
 }
 .logotip-studio {
-        color: #f4f4fd;
+        
         font-family: "Raleway", sans-serif;    
 }
 .span {
@@ -16,7 +16,7 @@ body {
 .logotip {
         font-family: "Raleway", sans-serif;
         color: #4d5ae5;
-        color: var(--navyblue, #2E2F42);
+        
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
