@@ -5,16 +5,14 @@ body {
 }
 .link {
         text-decoration: none;
-    }
+}
 .logotip-studio {
         color: #f4f4fd;
-        font-family: "Raleway", sans-serif;
-        
-        
-    }
+        font-family: "Raleway", sans-serif;    
+}
 .span {
        color: #2e2f42;
-        }
+}
 .logotip {
         font-family: "Raleway", sans-serif;
         color: #4d5ae5;
@@ -41,8 +39,7 @@ body {
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
-        color: #2e2f42;
-        
+        color: #2e2f42; 
     }
 .address-list {
         font-family: Roboto;
@@ -129,7 +126,8 @@ body {
         line-height: 40px;
         /* 111.111% */
         letter-spacing: 0.72px;
-        text-transform: capitalize;    
+        text-transform: capitalize; 
+        line-height: 1.11;
 }
 .list {
         background-color: #FFFFFF;
@@ -141,7 +139,7 @@ body {
         background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 }
 .caption {
-        line-height: 1.11;    
+        line-height: 1.2;    
         }
 .excerpt {
         line-height: 1.2;
