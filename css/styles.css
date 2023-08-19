@@ -7,17 +7,18 @@ body {
         text-decoration: none;
     }
 .logotip-studio {
-        color: #f4f4fd;;
+        color: #f4f4fd;
+        font-family: "Raleway", sans-serif;
+        
         
     }
-span {
+.span {
        color:  #2e2f42;
         }
 .logotip {
-        font-family: "Raleway", sans-serif;
+        font-family: "Raleway";
         color: #4d5ae5;
         color: var(--navyblue, #2E2F42);
-        font-family: Raleway;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
@@ -25,6 +26,12 @@ span {
         /* 116.667% */
         letter-spacing: 0.54px;
         text-transform: uppercase;
+}
+.address-list-link:hover {
+        background-color: #404BBF;
+}
+.address-list-link:focus {
+        background-color: #404BBF;
 }
 .listnav {
         font-family: Roboto;
