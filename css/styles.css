@@ -6,13 +6,6 @@ body {
 .link {
         text-decoration: none;
 }
-.span {
-        color: #2e2f42; 
-}
-.logotip-studio {
-        font-family: "Raleway", sans-serif;
-        color: #2e2f42;
-}
 
 .logotip {
         font-family: "Raleway", sans-serif;
@@ -23,6 +16,14 @@ body {
         /* 116.667% */
         letter-spacing: 0.03em;
         text-transform: uppercase;
+}
+.span {
+        color: #2e2f42;
+}
+
+.logotip-studio {
+        font-family: "Raleway", sans-serif;
+        color: #2e2f42;
 }
 .address-list-link:hover {
         color: #404bbf;
